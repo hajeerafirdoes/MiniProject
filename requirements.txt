@@ -1,0 +1,8 @@
+flask==2.3.3
+flask-cors==4.0.0
+flask-jwt-extended==4.5.3
+scikit-learn==1.6.0  
+numpy==1.25.2
+python-dateutil==2.8.2
+scipy==1.11.3
+werkzeug==2.3.7
